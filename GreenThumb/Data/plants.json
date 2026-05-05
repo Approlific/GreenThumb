@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "Southern Magnolia",
+        "scientificName" : "Magnolia grandiflora",
+        "light" : "Full Sun to partial shade.",
+        "water" : "Deeply every 1-2 weeks (once established, they are quite drought-tolerant).",
+        "description" : "An iconic evergreen tree of the South, famous for its large, waxy green leaves and massive, fragrant white blossoms that bloom in late spring.",
+        "imageName" : "magnolia"
+    },
+    {
+        "name" : "Oakleaf Hydrangea",
+        "scientificName" : "Hydrangea quercifolia",
+        "light" : "Partial Shade (needs protection from the harsh afternoon Southern sun).",
+        "water" : "Consistently moist; requires frequent watering during summer heat waves.",
+        "description" : "A native shrub with leaves shaped like those of an oak tree. It produces beautiful cone-shaped white flower clusters that fade to a dusty pink as they age.",
+        "imageName" : "oakleaf"
+    },
+    {
+        "name" : "Gulf Coast Muhly Grass",
+        "scientificName" : "Muhlenbergia capillaris",
+        "light" : "Full sun",
+        "water" : "Low; very drought-tolerant once the root system is established.",
+        "description" : "Often called \"Pink Muhly Grass,\" this ornamental grass is famous for the airy, cotton-candy pink clouds of flowers that appear in late fall, creating a stunning landscape effect.",
+        "imageName" : "muhly-grass"
+    },
+    {
+        "name" : "Spanish Bayonet",
+        "scientificName" : "Yucca aloifolia",
+        "light" : "Full sun.",
+        "water" : "Very Low; only needs occasional watering during extreme dry spells.",
+        "description" : "A striking, structural plant with stiff, evergreen leaves that end in a sharp \"bayonet\" point. It produces tall spikes of bell-shaped white flowers in the summer.",
+        "imageName" : "spanish-bayonet"
+    },
+    {
+        "name" : "American Beautyberry",
+        "scientificName" : "Callicarpa americana",
+        "light" : "Partial shade to full sun.",
+        "water" : "Moderate; prefers regular moisture but can handle dry spells once mature.",
+        "description" : "deciduous shrub best known for its spectacular, tightly-packed clusters of neon-purple berries that wrap around the stems in the autumn, providing food for local birds.",
+        "imageName" : "beautyberry"
+    }
+]

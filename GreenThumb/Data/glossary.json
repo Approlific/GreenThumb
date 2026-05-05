@@ -1,0 +1,62 @@
+[
+    {
+        "name" : "Acidic Soil",
+        "definition" : "Soil with a pH below 7.0.",
+        "context" : "Essential for Oakleaf Hydrangeas, which thrive in the naturally acidic pine-heavy soils of the South.",
+        "symbol" : "leaf"
+    },
+    {
+        "name" : "Deciduous",
+        "definition" : "Plants that shed their leaves annually, usually in the autumn.",
+        "context" : "he American Beautyberry is deciduous, losing its leaves but keeping its bright purple berries into the winter.",
+        "symbol" : "leaf.arrow.triangle.circlepath"
+    },
+    {
+        "name" : "Drought-Tolerant",
+        "definition" : "The ability of a plant to survive long periods without water.",
+        "context" : "Once established, Gulf Coast Muhly Grass and Spanish Bayonets are extremely drought-tolerant.",
+        "symbol" : "sun.max.trianglebadge.exclamationmark"
+    },
+    {
+        "name" : "Evergreen",
+        "definition" : "A plant that retains green leaves throughout the year.",
+        "context" : "The Southern Magnolia is a classic broadleaf evergreen, providing greenery even in the middle of January.",
+        "symbol" : "tree.fill"
+    },
+    {
+        "name" : "Hardiness Zone",
+        "definition" : "A geographic area defined to encompass a certain range of climatic conditions relevant to plant growth and survival.",
+        "context" : "Most of the Souther United States falls into Zones 7-10.",
+        "symbol" : "map.fill"
+    },
+    {
+        "name" : "Native Plant",
+        "definition" : "A plant that occurs naturally in a particular region without human intervention.",
+        "context" : "All five plants in your app are native to the Southern United States, making them better for local ecosystems.",
+        "symbol" : "location.fill"
+    },
+    {
+        "name" : "Old Wood",
+        "definition" : "Stems that grew during the previous growing season.",
+        "context" : "Oakleaf Hydrangeas bloom on \"old wood,\" meaning next year's flowers are already formed on the stems by late summer.",
+        "symbol" : "fossil.shell.fill"
+    },
+    {
+        "name" : "Ornamental Grass",
+        "definition" : "Grasses grown for their aesthetic appeal rather than for lawns or forage.",
+        "context" : "Gulf Coast Muhly Grass is one of the most popular ornamental grasses in the South.",
+        "symbol" : "wind"
+    },
+    {
+        "name" : "Root Ball",
+        "definition" : "The main mass of roots at the base of a plant, including the surrounding soil.",
+        "context" : "When planting your Southern Magnolia, it is vital not to bury the root ball too deep, or the tree may suffocate.",
+        "symbol" : "circle.grid.cross.fill"
+    },
+    {
+        "name" : "Understory",
+        "definition" : "A layer of vegetation growing beneath the main canopy of a forest.",
+        "context" : "The American Beautyberry is an understory shrub, which is why it prefers the dappled light found under larger trees.",
+        "symbol" : "shadow"
+    }
+]
