@@ -1,5 +1,6 @@
 # GreenThumb
 This app showcases a list of plants with various data points about them and also has a glossary of plant terms to assist those new to plant care.
+This is now day 14 of learning Swift/SwiftUI for me. No AI or tutorials, just recall of past lessons learned, Google, and Apple docs.
 This app reads from two JSON files: plants.json and glossary.json. Both files provide all data to the app.
 NavigationView embedded in a TabView for navigation throughout the app. A new one for me in this project was GeometryReader. I had struggled with it in the past, but it just clicked for me in this project.
 <img width="682" height="1406" alt="preview" src="https://github.com/user-attachments/assets/dc91f1a5-5585-4db0-9a05-c5da8f597728" />
